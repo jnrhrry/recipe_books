@@ -2,7 +2,7 @@
 
 This is a Flutter-based application with Firebase authentication that allows us to login/register using our email address. The information available comes from the Spoonacular API.
 
-<img src="https://ibb.co/g7YKCGV" width=256/>&nbsp;
+<a href="https://ibb.co/g7YKCGV"><img src="https://i.ibb.co/g7YKCGV/ezgif-3-85fba433e37c.gif" alt="ezgif-3-85fba433e37c" border="0"></a>
 
 ## Getting Started
 
