@@ -1,6 +1,8 @@
 # recipe_books
 
-A new Flutter project.
+This is a Flutter-based application with Firebase authentication that allows us to login/register using our email address. The information available comes from the Spoonacular API.
+
+<img src="https://ibb.co/g7YKCGV" width=256/>&nbsp;
 
 ## Getting Started
 
